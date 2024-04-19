@@ -2,8 +2,7 @@
 <html>
 <head>
   <style>
-    /* Your existing CSS styles */
-    /* Add any additional styles for the character list if needed */
+     Your existing CSS styles
     .character-list {
       margin-top: 20px;
       padding: 10px;
